@@ -1,7 +1,7 @@
 {
-    "name": "Stereo 1",
-    "short_name": "Stereo 1",
-    "start_url": "https://stereo1.miradioenvivo.com/",
+    "name": "Phoenix Radio",
+    "short_name": "Phoenix Radio",
+    "start_url": "https://phoenixradiohd.github.io/94/",
     "display": "standalone",
     "background_color": "#f3e722",
     "theme_color": "#f3e722",
