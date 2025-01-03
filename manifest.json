@@ -1,10 +1,10 @@
 {
-    "name": "Phoenix Radio",
-    "short_name": "Phoenix Radio",
+    "name": "Phoenix Radio HD",
+    "short_name": "Phoenix Radio HD",
     "start_url": "https://phoenixradiohd.github.io/94/",
     "display": "standalone",
-    "background_color": "#f3e722",
-    "theme_color": "#f3e722",
+    "background_color": "#0e0d0d",
+    "theme_color": "#0e0d0d",
     "description": "Escucha tu radio favorita en cualquier lugar.",
     "icons": [
         {
